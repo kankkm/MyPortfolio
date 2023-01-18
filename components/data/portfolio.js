@@ -2,7 +2,7 @@ const portfolio = [
   {
     id: "01",
     title: "Application to Find Additional jobs Mobile App",
-    img: "/images/portfolio-01.jpg",
+    img: "/images/portfolio-01.JPG",
     category: "Mobile App",
     keyword: ["Mobile", "App", "UI-UX"],
     liveUrl: "#",
@@ -11,7 +11,7 @@ const portfolio = [
   {
     id: "02",
     title: "Application to Find Additional jobs Mobile App",
-    img: "/images/portfolio-02.jpg",
+    img: "/images/portfolio-02.JPG",
     category: "Mobile App",
     keyword: ["Mobile", "App", "UI-UX"],
     liveUrl: "#",
@@ -20,7 +20,7 @@ const portfolio = [
   {
     id: "03",
     title: "Application to Find Additional jobs Mobile App",
-    img: "/images/portfolio-03.jpg",
+    img: "/images/portfolio-03.JPG",
     category: "Mobile App",
     keyword: ["Mobile", "App", "UI-UX"],
     liveUrl: "#",
