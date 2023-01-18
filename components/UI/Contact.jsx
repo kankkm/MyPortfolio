@@ -14,7 +14,7 @@ const Contact = () => {
             <SectionSubtitle subtitle="Contact me" />
             <h3 className="mt-4 mb-4">Contact with me</h3>
             <p>
-            Am a new graduate from King mongkut's university of technology thonburi Faculty information technology. Nice to meet every one
+            Am a new graduate from King mongkut university of technology thonburi Faculty information technology. Nice to meet every one
             </p>
 
             <ul className={`${classes.contact__info__list}`}>
