@@ -21,9 +21,7 @@ const Hero = () => {
               Am a new graduate from King mongkut's university of technology thonburi Faculty information technology. Nice to meet every one
               </p>
               <div className="mt-5">
-                <button className="primary__btn">
-                  <Link href="#">Hire me</Link>
-                </button>
+              
 
                 <button className="secondary__btn">
                   <Link href="https://drive.google.com/file/d/1SG7-z4js5KXtJGu5IejoxjT9UdlruzwF/view?usp=sharing">Download CV</Link>
