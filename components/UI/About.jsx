@@ -4,6 +4,10 @@ import Link from "next/link";
 import SectionSubtitle from "./SectionSubtitle";
 import Image from "next/image";
 
+import img01 from "/images/img-01.jpg";
+import img02 from "/images/img-02.jpg";
+import img03 from "/images/img-03.jpg";
+import img04 from "/images/hero.jpg";
 
 import classes from "../../styles/about.module.css";
 
@@ -73,13 +77,13 @@ const About = () => {
                 <div
                   className={`${classes.about__img} ${classes.about__img__box}`}
                 >
-                  <Image src="../../public/images/img-01.jpg" alt="about-img" />
+                  <Image src={img01} alt="about-img" />
                 </div>
 
                 <div
                   className={`${classes.about__img} ${classes.about__img__box}`}
                 >
-                  <Image src="../../public/images/img-02.jpg" alt="about-img" />
+                  <Image src={img02} alt="about-img" />
                 </div>
               </div>
 
@@ -87,13 +91,13 @@ const About = () => {
                 <div
                   className={`${classes.about__img} ${classes.about__img__box}`}
                 >
-                  <Image src="../../public/images/img-03.jpg" alt="about-img" />
+                  <Image src={img03} alt="about-img" />
                 </div>
 
                 <div
                   className={`${classes.about__img} ${classes.about__img__box}`}
                 >
-                  <Image src="../../public/images/hero.jpg" alt="about-img" />
+                  <Image src={img04} alt="about-img" />
                 </div>
               </div>
             </div>
