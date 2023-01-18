@@ -18,7 +18,7 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I am Kan Khamkoonmuang</h2>
               <h5 className="mb-4">Developer</h5>
               <p>
-              Am a new graduate from King mongkut's university of technology thonburi Faculty information technology. Nice to meet every one
+              Am a new graduate from King mongkut university of technology thonburi Faculty information technology. Nice to meet every one
               </p>
               <div className="mt-5">
               
