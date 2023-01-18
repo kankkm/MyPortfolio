@@ -3,7 +3,6 @@ import SectionSubtitle from "./SectionSubtitle";
 import { Container, Row, Col } from "reactstrap";
 import Image from "next/image";
 import Link from "next/link";
-import heroImg from "./public/images/hero.jpg";
 import classes from "../../styles/hero.module.css";
 
 const Hero = () => {
@@ -33,7 +32,7 @@ const Hero = () => {
           {/* ========== hero img ============= */}
           <Col lg="6" md="6">
             <div className={`${classes.hero__img} text-end`}>
-              <Image alt="hero-image" src={heroImg} width="400" height="400" />
+              <Image alt="hero-image" src="../../public/images/hero.jpg" width="400" height="400" />
 
               <div className={`${classes.hero__skills}`}>
                 <h6>Skills</h6>
